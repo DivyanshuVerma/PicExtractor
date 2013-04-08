@@ -1,7 +1,0 @@
-An application which downloads images from www.carwalls.com
-When you start the program, it crawls the pages of the site,
-and simultaneously, it downloads the images that are not on the computer.
-Once you have crawled the whole website, then it downloads and crawls only those images and websites that are not downloaded.
-This version is developed for downloading only car wallpapers. The subsequent sections for bikes will be added in later versions.
-
-Written By Divyanshu Verma
